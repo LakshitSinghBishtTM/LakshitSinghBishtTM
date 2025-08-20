@@ -13,10 +13,17 @@
 
 ---
 
-### 📂 Featured Projects
-- 📘 [M.Sc. Notes & Resources](#) – Organized LaTeX/Maths notes  
-- 🧮 [Math Codes in Python](#) – Scripts using NumPy, SymPy, SciPy  
-- 📝 [Research Portfolio](#) – Drafts, academic resources  
+## 🚀 Featured Projects
+
+- [Functional Analysis Notes](https://github.com/LakshitSinghBishtTM/functional-analysis-notes)  
+  Personal notes, proofs, and problem-solving collection in Functional Analysis.
+
+- [Linear Algebra Toolkit](https://github.com/LakshitSinghBishtTM/linear-algebra-toolkit)  
+  Scripts and explanations for matrix computations, eigenvalues, eigenvectors, etc.
+
+- [Research Portfolio](https://github.com/LakshitSinghBishtTM/research-portfolio)  
+  A collection of academic activities, draft works, and collaborations.
+
 
 ---
 
