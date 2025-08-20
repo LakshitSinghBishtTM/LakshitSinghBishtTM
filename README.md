@@ -28,11 +28,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshit-Singh-Bisht&show_icons=true&theme=default&hide=issues)
+![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=default&hide=issues)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshit-Singh-Bisht&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=default)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lakshit-Singh-Bisht&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=LakshitSinghBishtTM&color=blue)
 
 ---
 
