@@ -14,9 +14,9 @@
 ---
 
 ### 📂 Featured Projects
-- 📘 [M.Sc. Notes & Resources](#) – Organized LaTeX/Maths notes  
-- 🧮 [Math Codes in Python](#) – Scripts using NumPy, SymPy, SciPy  
-- 📝 [Research Portfolio](#) – Drafts, academic resources  
+- 📘 [M.Sc. Notes & Resources] – Organized LaTeX/Maths notes  
+- 🧮 [Math Codes in Python] – Scripts using NumPy, SymPy, SciPy  
+- 📝 [Research Portfolio] – Drafts, academic resources  
 
 ---
 
