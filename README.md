@@ -1,4 +1,4 @@
-# Hello!, I'm Lakshit Singh Bisht 👋
+# Hello!, I'm Lakshit Singh Bisht
 
 🎓 **M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
 📌 **Focus:** Pure Mathematics - Real Analysis, Functional Analysis, Linear Algebra  
@@ -6,14 +6,14 @@
 
 ---
 
-### 🔬 Research Interests
+### Research Interests
 - Real Analysis  
 - Functional Analysis  
 - Linear Algebra  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [Functional Analysis Notes](https://github.com/LakshitSinghBishtTM/functional-analysis-notes)  
   Personal notes, proofs, and problem-solving collection in Functional Analysis.
@@ -27,14 +27,14 @@
 
 ---
 
-### 🛠️ Tools & Skills
+### Tools & Skills
 - Python (NumPy, SciPy, SymPy)  
 - LaTeX  
 - Git & GitHub  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=default&hide=issues)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=default)](https://git.io/streak-stats)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitsinghbishttm)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0035-5714)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cAZxaQMAAAAJ&hl=en)
