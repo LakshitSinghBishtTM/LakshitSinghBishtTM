@@ -1,7 +1,7 @@
 # Hello!, I'm Lakshit Singh Bisht 👋
 
-🎓 **M.Sc. Mathematics & Computing**, Central University of Andhra Pradesh  
-📌 **Focus:** Pure Mathematics — Real Analysis, Functional Analysis, Linear Algebra  
+🎓 **M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
+📌 **Focus:** Pure Mathematics - Real Analysis, Functional Analysis, Linear Algebra  
 📚 Building my research portfolio and preparing for Ph.D. opportunities  
 
 ---
