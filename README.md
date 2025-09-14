@@ -2,12 +2,12 @@
 
  **M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
  **Focus:** Pure Mathematics - Real Analysis, Functional Analysis, Linear Algebra  
- Building my research portfolio and preparing for Ph.D. opportunities  
+Actively developing my research portfolio and preparing for future doctoral opportunities in Pure Mathematics.
 
 ---
 
 ### Research Interests
-- Real Analysis  
+- Real Analysis
 - Functional Analysis  
 - Linear Algebra  
 
@@ -29,16 +29,15 @@
 ---
 
 ### Tools & Skills
-- Python (NumPy, SciPy, SymPy)  
-- LaTeX  
-- GitHub
-- MS Word
-- MS Excel
+- Mathematical Computing: Python (NumPy, SciPy, SymPy), LaTeX  
+- Research Tools: GitHub, Overleaf, ORCID  
+- Documentation: MS Word, MS Excel  
+
 
 ---
 
 ### GitHub Stats
-![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=default&hide=issues)
+![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=transparent&hide=issues)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=default)](https://git.io/streak-stats)
 
