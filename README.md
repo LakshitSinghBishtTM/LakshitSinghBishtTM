@@ -29,8 +29,9 @@ Actively developing my research portfolio and preparing for future doctoral oppo
 ---
 
 ### Tools & Skills
-- Mathematical Computing: Python (NumPy, SciPy, SymPy), LaTeX  
-- Research Tools: GitHub, Overleaf, ORCID  
+- Mathematical Computing: Python (NumPy, SciPy, SymPy), LaTeX \ 
+- Research Tools: GitHub, Overleaf, ORCID
+- Softwares: Wolfram Alpha, Sagemath, Coq
 - Documentation: MS Word, MS Excel  
 
 
@@ -39,7 +40,7 @@ Actively developing my research portfolio and preparing for future doctoral oppo
 ### GitHub Stats
 ![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=transparent&hide=issues)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=transparent&hide=issues)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LakshitSinghBishtTM&color=blue)
 
