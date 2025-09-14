@@ -15,14 +15,15 @@
 
 ## Featured Projects
 
-- [Functional Analysis Notes](https://github.com/LakshitSinghBishtTM/functional-analysis-notes)  
-  Personal notes, proofs, and problem-solving collection in Functional Analysis.
+- [Linear Algebra](https://github.com/LakshitSinghBishtTM/Linear-Algebra)
 
-- [Linear Algebra Toolkit](https://github.com/LakshitSinghBishtTM/linear-algebra-toolkit)  
-  Scripts and explanations for matrix computations, eigenvalues, eigenvectors, etc.
+- [Real Analysis](https://github.com/LakshitSinghBishtTM/Real-Analysis)  
 
-- [Research Portfolio](https://github.com/LakshitSinghBishtTM/research-portfolio)  
-  A collection of academic activities, draft works, and collaborations.
+- [Abstract Algebra](https://github.com/LakshitSinghBishtTM/Abstract-Algebra) 
+
+- [Ordinary Differential Equations](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations)
+
+- [Computer Programming in Python](https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python)
 
 
 ---
@@ -30,7 +31,9 @@
 ### Tools & Skills
 - Python (NumPy, SciPy, SymPy)  
 - LaTeX  
-- Git & GitHub  
+- GitHub
+- MS Word
+- MS Excel
 
 ---
 
