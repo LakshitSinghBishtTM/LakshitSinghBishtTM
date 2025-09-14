@@ -2,7 +2,7 @@
 
  **M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
  **Focus:** Pure Mathematics - Real Analysis, Functional Analysis, Linear Algebra  
-Actively building my research portfolio and preparing for future doctoral opportunities in Pure Mathematics.
+Currently developing my research portfolio and preparing for future doctoral opportunities in Pure Mathematics.
 
 ---
 
@@ -23,7 +23,7 @@ Actively building my research portfolio and preparing for future doctoral opport
 
 - [Ordinary Differential Equations](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations)
 
-- [Computer Programming in Python](https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python)
+- [Computer Programming In Python](https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python)
 
 
 ---
