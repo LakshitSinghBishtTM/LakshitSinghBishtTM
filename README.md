@@ -1,45 +1,35 @@
 # Hello! I'm Lakshit Singh Bisht
 
- **M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
- **Focus:** Pure Mathematics - Real Analysis, Functional Analysis, Linear Algebra  
-Currently developing my research portfolio and preparing for future doctoral opportunities in Pure Mathematics.
+**M.Sc. Mathematics and Computing**, Central University of Andhra Pradesh  
+**Focus:** Theoretical Computation, Complex Systems, and Functional Analysis
+ 
+Currently developing my research portfolio and preparing for future contributions in Mathematics, Computer Science and related fields.
 
 ---
 
 ### Research Interests
-- Real Analysis
+- Theoretical Computation
+- Complex Systems
 - Functional Analysis  
-- Linear Algebra  
 
 ---
 
 ## Featured Projects
 
-- [Linear Algebra](https://github.com/LakshitSinghBishtTM/Linear-Algebra)
+- [xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)
 
-- [Real Analysis](https://github.com/LakshitSinghBishtTM/Real-Analysis)  
-
-- [Abstract Algebra](https://github.com/LakshitSinghBishtTM/Abstract-Algebra) 
-
-- [Ordinary Differential Equations](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations)
-
-- [Computer Programming In Python](https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python)
-
+- [Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)
 
 ---
 
 ### Tools & Skills
-- **Mathematical Computing**: Python (NumPy, SciPy, SymPy), MATLAB, Mathematica, SageMath, Coq  
-- **Documentation & Typesetting**: LaTeX, MS Word, MS Excel  
-- **Research & Collaboration**: GitHub, Overleaf, ORCID  
-
+- **Mathematical Computing**: Python, MATLAB, R
+- **Documentation & Typesetting**: LaTeX
+- **System**: Linux (Debian)  
 
 ---
 
 ### GitHub Stats
-![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshitSinghBishtTM&show_icons=true&theme=transparent&hide=issues)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshitSinghBishtTM&theme=transparent)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LakshitSinghBishtTM&color=blue)
 
