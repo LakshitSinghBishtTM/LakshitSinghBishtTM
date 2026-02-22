@@ -8,6 +8,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 ---
 
 ## Research Interests
+
 - Theoretical Computation
 - Complex Systems
 - Functional Analysis  
@@ -24,7 +25,8 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 
 ---
 
-## Tools & Skills
+## Technical Skills
+
 - **Mathematical Computing**: Python, MATLAB, R
 - **Documentation & Typesetting**: LaTeX
 - **System**: Linux (Debian), Tails OS, IBM z/OS
