@@ -51,5 +51,13 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht"><img src="https://img.shields.io/badge/Math%20StackExchange-005C9C?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://medium.com/@lakshitsinghbishttm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/User:LakshitSinghBishtTM"><img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
-<a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### Contact
+
+<p>
+<a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:lakshit.25mat06@cuap.edu.in"><img src="https://img.shields.io/badge/Academic%20Email-003366?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
