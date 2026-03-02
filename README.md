@@ -27,7 +27,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 
 ## Technical Skills
 
-- **Mathematical Computing**: Python, MATLAB, R
+- **Mathematical Computing**: Python, MATLAB and Simulink, R
 - **Documentation & Typesetting**: LaTeX
 - **System**: Linux (Debian), Tails OS, IBM z/OS
 
@@ -45,6 +45,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 <a href="https://arxiv.org/a/0009-0004-0035-5714"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"></a>
 <br>
 <a href="https://cuap.academia.edu/LakshitSinghBisht"><img src="https://img.shields.io/badge/Academia.edu-222222?style=for-the-badge&logo=academia&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Lakshit-Singh-Bisht"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/lakshitsinghbishttm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <a href="https://math.stackexchange.com/users/1678354/lakshit-singh-bisht"><img src="https://img.shields.io/badge/Math%20StackExchange-005C9C?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
