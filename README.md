@@ -59,5 +59,5 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 
 <p>
 <a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:lakshit.25mat06@cuap.edu.in"><img src="https://img.shields.io/badge/Academic%20Email-003366?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:lakshit.25mat06@cuap.edu.in"><img src="https://img.shields.io/badge/Institutional%20Email-003366?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
