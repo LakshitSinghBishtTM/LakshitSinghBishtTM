@@ -18,7 +18,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
-  A FOSS and decentralized Lean 4 ecosystem framework focused on studying tooling, workflows, governance, and policy enforcement in a controlled and reproducible environment.
+  A Lean 4 ecosystem framework focused on studying tooling, governance, and policy enforcements in a controlled and reproducible environment.
 
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client, designed for explicit behavior, predictable semantics, and low operational complexity.
@@ -27,9 +27,11 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 
 ## Technical Skills
 
-- **Mathematical Computing**: Python, MATLAB and Simulink, R
-- **Documentation & Typesetting**: LaTeX
-- **System**: Linux (Debian), Tails OS, IBM z/OS
+- **Programming**: Python, R
+- **Mathematical Tools**: MATLAB, Simulink, Lean 4
+- **Systems**: Linux (Debian, Arch), Tails OS, IBM z/OS
+- **Tools**: Git, SQL
+- **Typesetting**: LaTeX, MathML, HTML
 
 ---
 
