@@ -1,6 +1,6 @@
 # Lakshit Singh Bisht
 
-**M.Sc. Mathematics and Computing**,
+**M.Sc. Mathematics and Computing,**
 *Central University of Andhra Pradesh*
 
 Early-stage researcher in mathematics and computer science, focused on theoretical and rigorous frameworks and the design of reproducible, well-structured computational systems for research and experimentation.
