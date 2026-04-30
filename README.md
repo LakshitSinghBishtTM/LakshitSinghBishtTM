@@ -1,6 +1,6 @@
 # Lakshit Singh Bisht
 
-**M.Sc. Mathematics and Computing**
+**M.Sc. Mathematics and Computing**,
 *Central University of Andhra Pradesh*
 
 Early-stage researcher in mathematics and computer science, focused on theoretical and rigorous frameworks and the design of reproducible, well-structured computational systems for research and experimentation.
@@ -9,8 +9,8 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 
 ## Research Interests
 
+- Cybersecurity
 - Theoretical Computation
-- Complex Systems
 - Functional Analysis  
 
 ---
@@ -18,7 +18,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
-  An experimental Lean 4 ecosystem framework focused on studying tooling, workflows, governance, and policy enforcement in a controlled and reproducible environment.
+  A FOSS and decentralized Lean 4 ecosystem framework focused on studying tooling, workflows, governance, and policy enforcement in a controlled and reproducible environment.
 
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client, designed for explicit behavior, predictable semantics, and low operational complexity.
