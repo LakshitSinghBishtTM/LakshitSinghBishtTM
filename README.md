@@ -10,7 +10,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 ## Research Interests
 
 - Cybersecurity
-- Theoretical Computation
+- Theory of Computation
 - Functional Analysis  
 
 ---
