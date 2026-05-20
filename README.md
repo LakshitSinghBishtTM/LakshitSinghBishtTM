@@ -31,7 +31,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 - **Mathematical Tools**: MATLAB, Simulink, Lean 4
 - **Systems**: Linux (Debian, Arch), Tails OS, IBM z/OS
 - **Tools**: Git, SQL
-- **Typesetting**: LaTeX, MathML, HTML
+- **Typesetting**: LaTeX, MathML
 
 ---
 
