@@ -20,7 +20,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
   A Lean 4 ecosystem framework focused on studying tooling, governance, and policy enforcements in a controlled and reproducible environment.
 
-- **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**
+- **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
   A dataset and resource infra for running Tor's snowflake proxy server.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
