@@ -21,7 +21,7 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
   A Lean 4 ecosystem framework focused on studying tooling, governance, and policy enforcements in a controlled and reproducible environment.
 
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
-  A dataset and resource infra for running Tor's snowflake proxy server.
+  A simple dataset and resource infra for running Tor's snowflake proxy server.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client, designed for explicit behavior, predictable semantics, and low operational complexity.
