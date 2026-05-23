@@ -3,14 +3,13 @@
 **M.Sc. Mathematics and Computing,**
 *Central University of Andhra Pradesh*
 
-Early-stage researcher in mathematics and computer science, focused on theoretical and rigorous frameworks and the design of reproducible, well-structured computational systems for research and experimentation.
+Early-stage researcher in mathematics and computer science, with a focus on systems security and frameworks. Interested in designing reproducible and well-structured systems and repositories for research and experimentation.
 
 ---
 
 ## Research Interests
 
 - Cybersecurity
-- Theory of Computation
 - Functional Analysis  
 
 ---
@@ -18,13 +17,13 @@ Early-stage researcher in mathematics and computer science, focused on theoretic
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
-  A Lean 4 ecosystem framework focused on studying tooling, governance, and policy enforcements in a controlled and reproducible environment.
+  A Lean 4 ecosystem framework with kernel protection and governance.
 
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
   A simple dataset and resource infra for running Tor's snowflake proxy server.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
-  A Tor-based lightweight messaging system with a minimal server and client, designed for explicit behavior, predictable semantics, and low operational complexity.
+  A Tor-based lightweight messaging system with a minimal server and client.
 
 ---
 
