@@ -15,6 +15,14 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 ---
 
+## Philosophy
+
+- Free and open-source software (FOSS)
+- Decentralization and self-hosted systems 
+- GPLv3-oriented ecosystem
+
+---
+
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
@@ -25,14 +33,6 @@ Early-stage researcher in mathematics and computer science, with interests in th
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client.
-
----
-
-## Philosophy
-
-- Free and open-source software (FOSS)
-- Decentralization and self-hosted systems 
-- GPLv3-oriented ecosystem
 
 ---
 
