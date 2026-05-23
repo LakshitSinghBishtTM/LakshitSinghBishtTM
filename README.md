@@ -9,7 +9,7 @@ Early-stage researcher in mathematics and computer science, with a focus on syst
 
 ## Research Interests
 
-- Cybersecurity
+- Privacy and Security
 - Functional Analysis  
 
 ---
