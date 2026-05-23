@@ -3,7 +3,7 @@
 **M.Sc. Mathematics and Computing**<br>
 *Central University of Andhra Pradesh*
 
-Early-stage researcher in mathematics and computer science, with a focus on theoretical aspects of cybersecurity and frameworks. Interested in designing reproducible and well-structured systems and repositories for research and experimentation.
+Early-stage researcher in mathematics and computer science, with interests in theoretical aspects of cybersecurity. Focused on building reproducible and structured systems and repositories for research and experimentation.
 
 ---
 
@@ -21,10 +21,18 @@ Early-stage researcher in mathematics and computer science, with a focus on theo
   A Lean 4 ecosystem framework with governance and kernel protection.
 
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
-  A simple dataset and resource infra for running Tor's snowflake proxy server.
+  Infrastructure and dataset resources for operating Tor Snowflake proxy systems.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client.
+
+---
+
+## Philosophy
+
+- Free and open-source software (FOSS)
+- Decentralization and self-hosted systems 
+- GPLv3-oriented ecosystem
 
 ---
 
