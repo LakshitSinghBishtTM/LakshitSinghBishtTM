@@ -1,15 +1,16 @@
-# Lakshit Singh Bisht
+<img width="1064" height="632" alt="image" src="https://github.com/user-attachments/assets/f01a7238-af94-4c7f-aabb-23f20ca8f16f" /># Lakshit Singh Bisht
 
 **M.Sc. Mathematics and Computing**<br>
 *Central University of Andhra Pradesh*
 
-Early-stage researcher in mathematics and computer science, with a focus on systems security and frameworks. Interested in designing reproducible and well-structured systems and repositories for research and experimentation.
+Early-stage researcher in mathematics and computer science, with a focus on theoretical aspects of cybersecurity and frameworks. Interested in designing reproducible and well-structured systems and repositories for research and experimentation.
 
 ---
 
 ## Research Interests
 
-- Privacy and Security
+- Security and Privacy
+- Computer Security
 - Functional Analysis  
 
 ---
