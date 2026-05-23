@@ -1,6 +1,6 @@
 # Lakshit Singh Bisht
 
-**M.Sc. Mathematics and Computing,**
+**M.Sc. Mathematics and Computing,**<br>
 *Central University of Andhra Pradesh*
 
 Early-stage researcher in mathematics and computer science, with a focus on systems security and frameworks. Interested in designing reproducible and well-structured systems and repositories for research and experimentation.
@@ -62,6 +62,6 @@ Early-stage researcher in mathematics and computer science, with a focus on syst
 ### Contact
 
 <p>
-<a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:lakshitsinghbishttm@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
 <a href="mailto:lakshit.25mat06@cuap.edu.in"><img src="https://img.shields.io/badge/Academic%20Email-003366?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
