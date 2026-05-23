@@ -17,7 +17,7 @@ Early-stage researcher in mathematics and computer science, with a focus on syst
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
-  A Lean 4 ecosystem framework with kernel protection and governance.
+  A Lean 4 ecosystem framework with governance and kernel protection.
 
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
   A simple dataset and resource infra for running Tor's snowflake proxy server.
