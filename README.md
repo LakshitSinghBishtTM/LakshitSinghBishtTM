@@ -1,4 +1,4 @@
-<img width="1064" height="632" alt="image" src="https://github.com/user-attachments/assets/f01a7238-af94-4c7f-aabb-23f20ca8f16f" /># Lakshit Singh Bisht
+# Lakshit Singh Bisht
 
 **M.Sc. Mathematics and Computing**<br>
 *Central University of Andhra Pradesh*
