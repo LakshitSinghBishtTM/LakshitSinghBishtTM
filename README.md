@@ -11,7 +11,7 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 - Security and Privacy
 - Computer Security
-- Functional Analysis  
+- Security Engineering  
 
 ---
 
