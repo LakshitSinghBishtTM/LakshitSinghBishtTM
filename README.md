@@ -38,10 +38,10 @@ Early-stage researcher in mathematics and computer science, with interests in th
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
   Infrastructure and dataset resources for operating Tor Snowflake proxy systems.
 
-- **[IndianWhistleblowingService](https://github.com/LakshitSinghBishtTM/IndianWhistleblowingService)**
+- **[IndianWhistleblowingService](https://github.com/LakshitSinghBishtTM/IndianWhistleblowingService)**  
   Companion repository for the Indian Whistleblowing Service, containing infrastructure, software, and public documentation.
 
-- **[CoreAI-Protocol-Suite](https://github.com/LakshitSinghBishtTM/CoreAI-Protocol-Suite)**
+- **[CoreAI-Protocol-Suite](https://github.com/LakshitSinghBishtTM/CoreAI-Protocol-Suite)**  
   Enterprise-grade LLM routing and agent orchestration framework for production AI systems.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
