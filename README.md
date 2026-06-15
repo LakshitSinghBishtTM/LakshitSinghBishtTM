@@ -18,8 +18,15 @@ Early-stage researcher in mathematics and computer science, with interests in th
 ## Philosophy
 
 - Free and open-source software (FOSS)
-- Decentralization and self-hosted systems 
-- GPLv3-oriented ecosystem
+- Decentralization and privacy-preserving systems 
+- No bloat and feature-creep policy
+
+---
+
+## Licensing
+
+- Software: GPLv3
+- Documentation and research: CC BY-NC-SA 4.0
 
 ---
 
@@ -30,6 +37,12 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 - **[snowflake](https://github.com/LakshitSinghBishtTM/snowflake)**  
   Infrastructure and dataset resources for operating Tor Snowflake proxy systems.
+
+- **[IndianWhistleblowingService](https://github.com/LakshitSinghBishtTM/IndianWhistleblowingService)**
+  Companion repository for the Indian Whistleblowing Service, containing infrastructure, software, and public documentation.
+
+- **[CoreAI-Protocol-Suite](https://github.com/LakshitSinghBishtTM/CoreAI-Protocol-Suite)**
+  Enterprise-grade LLM routing and agent orchestration framework for production AI systems.
   
 - **[Litsxg](https://github.com/LakshitSinghBishtTM/Litsxg)**  
   A Tor-based lightweight messaging system with a minimal server and client.
@@ -38,11 +51,11 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 ## Technical Skills
 
-- **Programming**: Python, R
+- **Programming**: Python, R, SQL
 - **Mathematical Tools**: MATLAB, Simulink, Lean 4
 - **Systems**: Linux (Debian, Arch), Tails OS, IBM z/OS
-- **Tools**: Git, SQL
-- **Typesetting**: LaTeX, MathML
+- **Tools**: Git, Docker
+- **Typesetting**: LaTeX
 
 ---
 
