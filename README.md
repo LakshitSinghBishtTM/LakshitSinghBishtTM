@@ -30,6 +30,18 @@ Early-stage researcher in mathematics and computer science, with interests in th
 
 ---
 
+## Forges
+
+All projects are mirrored across the following Git forges to avoid dependency on any single platform and to reduce single points of failure.
+
+- Gitlab: https://gitlab.com/lakshitsinghbishttm
+- Codeberg: https://codeberg.org/lakshitsinghbishttm
+- Bitbucket: https://bitbucket.org/lakshitsinghbishttm
+- Gitea: https://gitea.com/LakshitSinghBishtTM
+- Sourceforge: https://sourceforge.net/u/lakshitsbishttm
+
+---
+
 ## Featured Projects
 
 - **[xLaDe](https://github.com/LakshitSinghBishtTM/xLaDe)**  
